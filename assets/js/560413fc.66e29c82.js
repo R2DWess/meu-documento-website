@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeu_documento_website=self.webpackChunkmeu_documento_website||[]).push([[5876],{7812:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/meu-documento-website/blog/tags/facebook","allTagsPath":"/meu-documento-website/blog/tags","count":1,"unlisted":false}')}}]);
