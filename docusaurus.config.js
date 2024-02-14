@@ -4,13 +4,13 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'ESTUDOS',
+  tagline: 'levar seu estudo a outro nível',
+  favicon: 'img/favicon-2.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -32,14 +32,14 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: [ 'en' ],
   },
 
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      ( {
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
@@ -57,13 +57,13 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
+      } ),
     ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    ( {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -79,7 +79,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -130,13 +130,13 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${ new Date().getFullYear() } My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-    }),
+    } ),
 };
 
 export default config;
