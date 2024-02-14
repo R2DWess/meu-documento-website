@@ -1,0 +1,28 @@
+{
+  "id": "amazon-web-services/seguranca/iam/tutorial",
+  "title": "2 - Tutorial",
+  "description": "Identity and Access Management",
+  "source": "@site/docs/amazon-web-services/seguranca/1-iam/2-tutorial.md",
+  "sourceDirName": "amazon-web-services/seguranca/1-iam",
+  "slug": "/amazon-web-services/seguranca/iam/tutorial",
+  "permalink": "/meu-documento-website/docs/amazon-web-services/seguranca/iam/tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/amazon-web-services/seguranca/1-iam/2-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "2 - Tutorial",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1 - Conceito",
+    "permalink": "/meu-documento-website/docs/amazon-web-services/seguranca/iam/conceito"
+  },
+  "next": {
+    "title": "AWS Well-Architected Framework",
+    "permalink": "/meu-documento-website/docs/category/aws-well-architected-framework"
+  }
+}

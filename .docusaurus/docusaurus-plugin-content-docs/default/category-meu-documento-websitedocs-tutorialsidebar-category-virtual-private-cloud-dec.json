@@ -1,0 +1,16 @@
+{
+  "title": "Virtual Private Cloud",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/virtual-private-cloud",
+  "permalink": "/meu-documento-website/docs/category/virtual-private-cloud",
+  "navigation": {
+    "previous": {
+      "title": "Simple Storage Cloud!",
+      "permalink": "/meu-documento-website/docs/AWS/Serviços/s3/conteudo"
+    },
+    "next": {
+      "title": "Conceito",
+      "permalink": "/meu-documento-website/docs/AWS/Serviços/vpc/virtual-private-cloud"
+    }
+  }
+}

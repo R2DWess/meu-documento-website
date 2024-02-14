@@ -1,0 +1,27 @@
+{
+  "id": "AWS/Serviços/Elastic Compute Cloud/elastic-compute-cloud",
+  "title": "elastic-compute-cloud",
+  "description": "Elatic Compute Cloud EC2",
+  "source": "@site/docs/AWS/Serviços/1 - Elastic Compute Cloud/elastic-compute-cloud.md",
+  "sourceDirName": "AWS/Serviços/1 - Elastic Compute Cloud",
+  "slug": "/AWS/Serviços/Elastic Compute Cloud/elastic-compute-cloud",
+  "permalink": "/meu-documento-website/docs/AWS/Serviços/Elastic Compute Cloud/elastic-compute-cloud",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AWS/Serviços/1 - Elastic Compute Cloud/elastic-compute-cloud.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/meu-documento-website/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Simple Storage Cloud!",
+    "permalink": "/meu-documento-website/docs/AWS/Serviços/s3/conteudo"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Virtual Private Cloud (VPC)",
+  "slug": "/category/virtual-private-cloud-vpc",
+  "permalink": "/meu-documento-website/docs/category/virtual-private-cloud-vpc",
+  "navigation": {
+    "previous": {
+      "title": "2 - Tutorial",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/simple-storage-service/tutorial"
+    },
+    "next": {
+      "title": "1 - Conceito",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/virtual-private-cloud/conceito"
+    }
+  }
+}

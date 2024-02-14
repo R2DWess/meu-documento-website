@@ -1,0 +1,28 @@
+{
+  "id": "Amazon Web Services/whitepapers/overview-AWS/conceito",
+  "title": "1 - Conceito",
+  "description": "Identity and Access Management",
+  "source": "@site/docs/Amazon Web Services/whitepapers/overview-AWS/1-conceito.md",
+  "sourceDirName": "Amazon Web Services/whitepapers/overview-AWS",
+  "slug": "/Amazon Web Services/whitepapers/overview-AWS/conceito",
+  "permalink": "/meu-documento-website/docs/Amazon Web Services/whitepapers/overview-AWS/conceito",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Amazon Web Services/whitepapers/overview-AWS/1-conceito.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "1 - Conceito",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS Cloud Best Practices",
+    "permalink": "/meu-documento-website/docs/category/aws-cloud-best-practices"
+  },
+  "next": {
+    "title": "2 - Tutorial",
+    "permalink": "/meu-documento-website/docs/Amazon Web Services/whitepapers/overview-AWS/tutorial"
+  }
+}

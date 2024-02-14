@@ -1,0 +1,28 @@
+{
+  "id": "Amazon Web Services/⚙️ Serviços/virtual-private-cloud/tutorial",
+  "title": "2 - Tutorial",
+  "description": "Virtual Private Cloud",
+  "source": "@site/docs/Amazon Web Services/⚙️ Serviços/3-virtual-private-cloud/2-tutorial.md",
+  "sourceDirName": "Amazon Web Services/⚙️ Serviços/3-virtual-private-cloud",
+  "slug": "/Amazon Web Services/⚙️ Serviços/virtual-private-cloud/tutorial",
+  "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/virtual-private-cloud/tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Amazon Web Services/⚙️ Serviços/3-virtual-private-cloud/2-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "2 - Tutorial",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1 - Conceito",
+    "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/virtual-private-cloud/conceito"
+  },
+  "next": {
+    "title": "Relational Database Service(RDS)",
+    "permalink": "/meu-documento-website/docs/category/relational-database-servicerds"
+  }
+}

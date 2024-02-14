@@ -1,0 +1,15 @@
+{
+  "title": "Elastic Compute Cloud (EC2)",
+  "slug": "/category/elastic-compute-cloud-ec2",
+  "permalink": "/meu-documento-website/docs/category/elastic-compute-cloud-ec2",
+  "navigation": {
+    "previous": {
+      "title": "🧾 Guia Certificação",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/guia"
+    },
+    "next": {
+      "title": "1 - Conceito",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/elastic-compute cloud/conceito"
+    }
+  }
+}

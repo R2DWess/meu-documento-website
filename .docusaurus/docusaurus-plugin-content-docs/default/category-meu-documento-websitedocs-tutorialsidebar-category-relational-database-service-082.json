@@ -1,0 +1,16 @@
+{
+  "title": "Relational Database Service",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/relational-database-service",
+  "permalink": "/meu-documento-website/docs/category/relational-database-service",
+  "navigation": {
+    "previous": {
+      "title": "Conceito",
+      "permalink": "/meu-documento-website/docs/AWS/Serviços/vpc/virtual-private-cloud"
+    },
+    "next": {
+      "title": "Conceito",
+      "permalink": "/meu-documento-website/docs/AWS/Serviços/rds/conceito"
+    }
+  }
+}

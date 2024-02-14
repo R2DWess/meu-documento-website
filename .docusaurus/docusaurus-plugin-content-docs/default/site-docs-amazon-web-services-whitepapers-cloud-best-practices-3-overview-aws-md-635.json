@@ -1,0 +1,28 @@
+{
+  "id": "Amazon Web Services/whitepapers/cloud-best-practices/overview-aws",
+  "title": "3 - Overview of Amazon Web Services",
+  "description": "Introdução",
+  "source": "@site/docs/Amazon Web Services/whitepapers/cloud-best-practices/3-overview-aws.md",
+  "sourceDirName": "Amazon Web Services/whitepapers/cloud-best-practices",
+  "slug": "/Amazon Web Services/whitepapers/cloud-best-practices/overview-aws",
+  "permalink": "/meu-documento-website/docs/Amazon Web Services/whitepapers/cloud-best-practices/overview-aws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Amazon Web Services/whitepapers/cloud-best-practices/3-overview-aws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "3 - Overview of Amazon Web Services",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2 - AWS Cloud Best Practices",
+    "permalink": "/meu-documento-website/docs/Amazon Web Services/whitepapers/cloud-best-practices/aws-cloud-best-practices copy"
+  },
+  "next": {
+    "title": "AWS Cloud Best Practices",
+    "permalink": "/meu-documento-website/docs/category/aws-cloud-best-practices"
+  }
+}

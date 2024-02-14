@@ -1,0 +1,27 @@
+{
+  "id": "AWS/Serviços/rds/conceito",
+  "title": "Conceito",
+  "description": "!",
+  "source": "@site/docs/AWS/Serviços/4-rds/conceito.md",
+  "sourceDirName": "AWS/Serviços/4-rds",
+  "slug": "/AWS/Serviços/rds/conceito",
+  "permalink": "/meu-documento-website/docs/AWS/Serviços/rds/conceito",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AWS/Serviços/4-rds/conceito.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceito",
+    "permalink": "/meu-documento-website/docs/AWS/Serviços/vpc/virtual-private-cloud"
+  },
+  "next": {
+    "title": "conceito!",
+    "permalink": "/meu-documento-website/docs/AWS/Serviços/lambda/conceito"
+  }
+}

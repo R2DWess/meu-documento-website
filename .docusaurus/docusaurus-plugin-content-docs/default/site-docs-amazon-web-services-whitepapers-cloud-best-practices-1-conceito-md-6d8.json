@@ -1,0 +1,28 @@
+{
+  "id": "Amazon Web Services/whitepapers/cloud-best-practices/conceito",
+  "title": "1 - Conceito",
+  "description": "Identity and Access Management",
+  "source": "@site/docs/Amazon Web Services/whitepapers/cloud-best-practices/1-conceito.md",
+  "sourceDirName": "Amazon Web Services/whitepapers/cloud-best-practices",
+  "slug": "/Amazon Web Services/whitepapers/cloud-best-practices/conceito",
+  "permalink": "/meu-documento-website/docs/Amazon Web Services/whitepapers/cloud-best-practices/conceito",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Amazon Web Services/whitepapers/cloud-best-practices/1-conceito.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "1 - Conceito",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS Well-Architected Framework",
+    "permalink": "/meu-documento-website/docs/category/aws-well-architected-framework"
+  },
+  "next": {
+    "title": "2 - Tutorial",
+    "permalink": "/meu-documento-website/docs/Amazon Web Services/whitepapers/cloud-best-practices/tutorial"
+  }
+}

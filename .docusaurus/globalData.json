@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/meu-documento-website/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/meu-documento-website/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/amazon-cloud-front/conceito",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/amazon-cloud-front/conceito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/amazon-cloud-front/tutorial",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/amazon-cloud-front/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/amazon-rds/conceito",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/amazon-rds/conceito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/amazon-rds/tutorial",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/amazon-rds/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/aws-lambda/conceito",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/aws-lambda/conceito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/aws-lambda/tutorial",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/aws-lambda/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/elastic-compute cloud/conceito",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/elastic-compute cloud/conceito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/elastic-compute cloud/tutorial",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/elastic-compute cloud/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/simple-storage-service/conceito",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/simple-storage-service/conceito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/simple-storage-service/tutorial",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/simple-storage-service/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/virtual-private-cloud/conceito",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/virtual-private-cloud/conceito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/⚙️ Serviços/virtual-private-cloud/tutorial",
+              "path": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/virtual-private-cloud/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Amazon Web Services/guia",
+              "path": "/meu-documento-website/docs/Amazon Web Services/guia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/meu-documento-website/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/elastic-compute-cloud-ec2",
+              "path": "/meu-documento-website/docs/category/elastic-compute-cloud-ec2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/simple-storage-service-s3",
+              "path": "/meu-documento-website/docs/category/simple-storage-service-s3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/virtual-private-cloud-vpc",
+              "path": "/meu-documento-website/docs/category/virtual-private-cloud-vpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/relational-database-servicerds",
+              "path": "/meu-documento-website/docs/category/relational-database-servicerds",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/aws-lambda",
+              "path": "/meu-documento-website/docs/category/aws-lambda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/amazon-cloudfront",
+              "path": "/meu-documento-website/docs/category/amazon-cloudfront",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/meu-documento-website/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

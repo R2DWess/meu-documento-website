@@ -1,0 +1,27 @@
+{
+  "id": "AWS/Serviços/lambda/conceito",
+  "title": "conceito!",
+  "description": "",
+  "source": "@site/docs/AWS/Serviços/5-lambda/conceito.md",
+  "sourceDirName": "AWS/Serviços/5-lambda",
+  "slug": "/AWS/Serviços/lambda/conceito",
+  "permalink": "/meu-documento-website/docs/AWS/Serviços/lambda/conceito",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AWS/Serviços/5-lambda/conceito.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceito",
+    "permalink": "/meu-documento-website/docs/AWS/Serviços/rds/conceito"
+  },
+  "next": {
+    "title": "Conceito!",
+    "permalink": "/meu-documento-website/docs/AWS/Serviços/cloud-front/conceito"
+  }
+}

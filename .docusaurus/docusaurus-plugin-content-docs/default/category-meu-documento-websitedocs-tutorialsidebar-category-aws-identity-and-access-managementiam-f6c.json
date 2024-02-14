@@ -1,0 +1,15 @@
+{
+  "title": "AWS Identity And Access Management(IAM)",
+  "slug": "/category/aws-identity-and-access-managementiam",
+  "permalink": "/meu-documento-website/docs/category/aws-identity-and-access-managementiam",
+  "navigation": {
+    "previous": {
+      "title": "2 - Tutorial",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/modelos-precos-suporte/suporte/tutorial"
+    },
+    "next": {
+      "title": "1 - Conceito",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/seguranca/iam/conceito"
+    }
+  }
+}

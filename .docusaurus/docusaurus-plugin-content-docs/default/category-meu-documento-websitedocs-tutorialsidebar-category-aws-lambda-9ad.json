@@ -1,0 +1,15 @@
+{
+  "title": "AWS Lambda",
+  "slug": "/category/aws-lambda",
+  "permalink": "/meu-documento-website/docs/category/aws-lambda",
+  "navigation": {
+    "previous": {
+      "title": "2 - Tutorial",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/amazon-rds/tutorial"
+    },
+    "next": {
+      "title": "1 - Conceito",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/amazon-cloud-front/conceito"
+    }
+  }
+}

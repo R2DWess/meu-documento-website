@@ -1,0 +1,15 @@
+{
+  "title": "Simple Storage Service (S3)",
+  "slug": "/category/simple-storage-service-s3",
+  "permalink": "/meu-documento-website/docs/category/simple-storage-service-s3",
+  "navigation": {
+    "previous": {
+      "title": "2 - Tutorial",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/elastic-compute cloud/tutorial"
+    },
+    "next": {
+      "title": "1 - Conceito",
+      "permalink": "/meu-documento-website/docs/Amazon Web Services/⚙️ Serviços/simple-storage-service/conceito"
+    }
+  }
+}

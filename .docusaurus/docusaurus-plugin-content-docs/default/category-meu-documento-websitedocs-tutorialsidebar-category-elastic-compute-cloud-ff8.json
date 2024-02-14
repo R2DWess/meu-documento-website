@@ -1,0 +1,15 @@
+{
+  "title": "Elastic Compute Cloud",
+  "slug": "/category/elastic-compute-cloud",
+  "permalink": "/meu-documento-website/docs/category/elastic-compute-cloud",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/meu-documento-website/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "1 - Conceito",
+      "permalink": "/meu-documento-website/docs/AWS/Serviços/elastic-compute cloud/conceito"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "AWS/servicos-aws/lambda/lambda",
+  "title": "Congratulations!",
+  "description": "",
+  "source": "@site/docs/AWS/servicos-aws/5-lambda/lambda.md",
+  "sourceDirName": "AWS/servicos-aws/5-lambda",
+  "slug": "/AWS/servicos-aws/lambda/lambda",
+  "permalink": "/meu-documento-website/docs/AWS/servicos-aws/lambda/lambda",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AWS/servicos-aws/5-lambda/lambda.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS Lambda",
+    "permalink": "/meu-documento-website/docs/category/aws-lambda"
+  },
+  "next": {
+    "title": "Amazon CloudFront",
+    "permalink": "/meu-documento-website/docs/category/amazon-cloudfront"
+  }
+}

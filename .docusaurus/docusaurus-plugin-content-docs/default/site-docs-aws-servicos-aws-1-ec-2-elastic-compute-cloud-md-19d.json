@@ -1,0 +1,27 @@
+{
+  "id": "AWS/servicos-aws/ec2/elastic-compute-cloud",
+  "title": "Conceitos!",
+  "description": "",
+  "source": "@site/docs/AWS/servicos-aws/1-ec2/elastic-compute-cloud.md",
+  "sourceDirName": "AWS/servicos-aws/1-ec2",
+  "slug": "/AWS/servicos-aws/ec2/elastic-compute-cloud",
+  "permalink": "/meu-documento-website/docs/AWS/servicos-aws/ec2/elastic-compute-cloud",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AWS/servicos-aws/1-ec2/elastic-compute-cloud.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elastic Compute Cloud",
+    "permalink": "/meu-documento-website/docs/category/elastic-compute-cloud"
+  },
+  "next": {
+    "title": "Simple Storage Service",
+    "permalink": "/meu-documento-website/docs/category/simple-storage-service"
+  }
+}
