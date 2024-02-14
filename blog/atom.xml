@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/meu-documento-website/blog"/>
     <subtitle>ESTUDOS Blog</subtitle>
-    <icon>https://github.com/meu-documento-website/img/favicon-2.ico</icon>
+    <icon>https://github.com/meu-documento-website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://github.com/meu-documento-website/blog/welcome</id>
