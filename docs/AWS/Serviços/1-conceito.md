@@ -1,4 +1,5 @@
 ---
+title: "EC2 - AWS"
 sidebar_position: 1
 ---
 
