@@ -2,9 +2,6 @@
 sidebar_position: 1
 ---
 
-# Elastic Compute Cloud
-
-
 ### Elatic Compute Cloud EC2 
 
 ❓ O que é o **Amazon Elastic Compute Cloud (EC2)**?:
