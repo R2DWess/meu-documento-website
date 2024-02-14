@@ -11,7 +11,7 @@ sidebar_position: 1
 
 ❗Popularmente conhecido como **EC2**, é um componente central da plataforma de computação em nuvem da Amazon. O **EC2** permite aos usuários alugar máquinas virtuais usando a infraestrutura da Amazon. Ele foi projetado para tornar a computação em escala na web mais acessível para os desenvolvedores. 
 
-#### 💡 Aqui estão alguns pontos-chave sobre o Amazon EC2: 
+#### Aqui estão alguns pontos-chave sobre o Amazon EC2: 
 
 🖥️ **Máquinas Virtuais:** 
 - EC2 fornece instâncias, que são máquinas virtuais executando os sistemas operacionais que você escolher. 
