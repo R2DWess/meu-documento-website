@@ -1,5 +1,5 @@
 ---
-title: "1 - Guia"
+title: "🧾 Guia Certificação"
 sidebar_position: 1
 ---
 
